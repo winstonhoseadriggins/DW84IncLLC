@@ -1,5 +1,5 @@
 markdown: kramdown
-url: https://iammanchanda.github.io
+url: https://winstonhoseadriggins.github.io
 gems:
   - jekyll-seo-tag
   - jekyll-feed
@@ -11,5 +11,5 @@ compress_html:
   comments:  ["<!-- ", " -->"]
   endings:   all
 permalink: /blogs/:year/:month/:day/:title/
-baseurl: /creative-bootstrap
+baseurl: /DW84IncLLC
 exclude: ['Readme.md']
